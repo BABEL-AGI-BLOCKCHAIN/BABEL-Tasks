@@ -32,3 +32,4 @@ Each task follows these stages:
 ## Reference Documentation
 
 -   [BABEL Open Source Community](https://babel-agi-blockchain.notion.site/Community-Members-174c09fee3b781caa108df965f09bbb0)
+-   [README for BABEL-Tasks](https://babel-agi-blockchain.notion.site/README-for-BABEL-Tasks-184c09fee3b780798ce1c50039c9b30b)
