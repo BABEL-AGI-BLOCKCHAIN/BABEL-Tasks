@@ -1,12 +1,12 @@
 # \*Task Name
 
-Chain
+Nostr-AGI-Git contract
 
 # \*Bounty
 
 # \*Reference Bounty
 
-8000 BABEL placeholder
+16667 BABEL placeholder
 
 # \*Status
 
@@ -22,13 +22,11 @@ Not started
 
 # \*🏛Category
 
-Design
+Contract
 
 # \*Description
 
 # \*⛳️Why do this?
-
-Main chain
 
 # \*case 1
 
@@ -46,7 +44,7 @@ Main chain
 
 # \*Reference
 
-[Compensation for TPS issues](https://babel-agi-blockchain.notion.site/Compensation-for-TPS-issues-174c09fee3b781d3af5bfc23edad06ca)
+[Protocol](https://babel-agi-blockchain.notion.site/Protocol-176c09fee3b781a4b477f8357d6aec2f)
 
 # \*loophole 1
 
@@ -72,14 +70,14 @@ Main chain
 
 # Last edited time
 
-2025.2.11
+2025.2.12
 
 # Sprint
 
 # Blocked By
 
-[Miner or validator module](../Blockchain/Miner%20or%20validator%20module.md)
-
 # Is Blocking
+
+[AGI GIT](../Blockchain/AGI%20GIT.md)
 
 # ID

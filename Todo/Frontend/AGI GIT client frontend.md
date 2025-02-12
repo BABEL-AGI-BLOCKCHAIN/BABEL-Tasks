@@ -1,12 +1,12 @@
 # \*Task Name
 
-AGI GIT
+AGI GIT client frontend
 
 # \*Bounty
 
 # \*Reference Bounty
 
-13667 BABEL placeholder
+16667 BABEL placeholder
 
 # \*Status
 
@@ -22,33 +22,45 @@ Not started
 
 # \*🏛Category
 
-Blockchain
+Frontend
 
 # \*Description
+
+AGI GIT client frontend page design, display, and interaction
 
 # \*⛳️Why do this?
 
 # \*case 1
 
+Page design and development
+
 # \*case 2
+
+Login page, connect wallet, redirect page
 
 # \*case 3
 
+Command line parsing, add, remove, pull, and push four cards
+
 # \*case 4
+
+Diff display
 
 # \*case 5
 
+Interaction with contracts and relays
+
 # case N
+
+Timing for invoking the raisePayment function
 
 # case N (1)
 
 # \*Reference
 
--   [BABEL Protocol](https://babel-agi-blockchain.notion.site/BABEL-Protocol-174c09fee3b781f49c75f97a141b54f1)
--   [Model Event Class Diagram](https://babel-agi-blockchain.notion.site/Model-Event-Class-Diagram-176c09fee3b781c69a13c54aeab797af)
--   [agigit commands](https://babel-agi-blockchain.notion.site/agigit-commands-176c09fee3b781518d74d339e345c9b0)
-
 # \*loophole 1
+
+The contract does not provide an ABI, so the frontend needs to manually handle function signatures and parameter encoding, node provider integration, and private key exposure
 
 # is serious 1
 
@@ -72,15 +84,14 @@ Blockchain
 
 # Last edited time
 
-2025.2.11
+2025.2.12
 
 # Sprint
 
 # Blocked By
 
--   [Nostr-AGI-Git contract](../Contract/Nostr-AGI-Git%20contract.md)
--   [AGI GIT client frontend](../Frontend/AGI%20GIT%20client%20frontend.md)
-
 # Is Blocking
+
+[AGI GIT](../Blockchain/AGI%20GIT.md)
 
 # ID

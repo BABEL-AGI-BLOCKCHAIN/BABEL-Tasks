@@ -1,6 +1,6 @@
 # \*Task Name
 
-Chain
+AGI GIT tokenomics
 
 # \*Bounty
 
@@ -22,13 +22,9 @@ Not started
 
 # \*🏛Category
 
-Design
-
 # \*Description
 
 # \*⛳️Why do this?
-
-Main chain
 
 # \*case 1
 
@@ -45,8 +41,6 @@ Main chain
 # case N (1)
 
 # \*Reference
-
-[Compensation for TPS issues](https://babel-agi-blockchain.notion.site/Compensation-for-TPS-issues-174c09fee3b781d3af5bfc23edad06ca)
 
 # \*loophole 1
 
@@ -72,13 +66,11 @@ Main chain
 
 # Last edited time
 
-2025.2.11
+2025.2.12
 
 # Sprint
 
 # Blocked By
-
-[Miner or validator module](../Blockchain/Miner%20or%20validator%20module.md)
 
 # Is Blocking
 
